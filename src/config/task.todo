@@ -1,0 +1,17 @@
+Commandes d'informations :
+
+Commandes Youtube :
+  ☐ Créer une interface de playlist de musique discord depuis Youtube @created(20-12-20 00:37)
+    ☐ Passer à la piste audio suivante/précedente @created(20-12-20 00:42)
+    ☐ Arrêter la piste audio courante @created(20-12-20 00:43)
+
+ Commandes de modération :
+  ☐ Message de bienvenue aux nouveaux membres
+    ☐ Configurer un message de bienvenue
+  ☐ Filtrer certains mots @created(20-12-20 00:40)
+  ☐ Avertir un membre @created(20-12-20 00:48)
+
+Commandes fun :
+  ✔ Jouer au dés @created(20-12-20 00:38) @done (20-12-20 17:53)
+  ✔ Demander au bot de raconter une blague @created(20-12-20 00:46) @done (20-12-20 01:09)
+    ✔  Ajouter quelques blagues @created(20-12-20 01:10) @done (20-12-20 16:34)

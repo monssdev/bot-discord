@@ -1,0 +1,24 @@
+{
+	"infos" :
+		{
+			"prefix":  "!",
+			"token": "",
+			"client_id": "",
+			"public_app_key": "a1ce9c78d66943b9bfe7754c698d232283e5e5675b184214b6bb1df78c0c649b"
+		},
+
+	"commands" :
+		{
+			"ytb": "[url] joue une musique depuis Youtube.",
+			"quitter": "Forcer le bot à quitter le canal vocal.", 
+			"playlist": " [url] [...  Créer une playlist",
+			"blagues": [
+				"C'est quoi une chauve souris avec une perruque ? Une souris.",
+				"Pourquoi les Belges viennent-ils à la messe avec du savon ? Pour l’Ave Maria.",
+				"C'est quoi une chauve souris avec une perruque ? Une souris.",
+				"C'est quoi un petit pois avec une épée face à une carotte avec une épée ? Un bon duel.",
+				"Pourquoi les pêcheurs ne sont pas gros ? Parce qu’ils surveillent leur ligne.",
+				"Qu'est-ce qui est jaune et qui fait 'crac crac' ? Un poussin qui mange des chips."
+			]
+		}
+}
