@@ -14,4 +14,5 @@ Bot can send somes jokes
 !quitter  :  Bot leave the audio channel
 !playlist [url .. : Add a playlist, bot will play in order 
 !blague : Bot tell some jokes
+!roll : roll the dice between 0 & 100
 ```
